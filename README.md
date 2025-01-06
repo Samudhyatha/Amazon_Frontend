@@ -31,7 +31,7 @@ amazon-app-clone/
 ## 📝 How to Use  
 1. Clone the repository:  
    bash  
-   git clone https://github.com/Samudhyatha/Amazon_Clone.git  
+   git clone https://github.com/Samudhyatha/Amazon_Frontend.git
      
 2. Open the index.html file in your web browser.  
 3. Explore the features of the Amazon app clone!  
