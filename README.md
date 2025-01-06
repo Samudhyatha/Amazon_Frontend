@@ -26,10 +26,7 @@ amazon-app-clone/
 ## 🌟 Highlights  
 - Fully styled using modern CSS techniques such as Flexbox and Grid Layout.  
 - Fonts and colors are inspired by Amazon's original design to achieve visual similarity.  
-- Organized and clean code for easy customization.  
-
-## 📷 Screenshots  
-Include a few screenshots of your project here, showcasing key sections like the navigation bar, product grid, and footer.  
+- Organized and clean code for easy customization.   
 
 ## 📝 How to Use  
 1. Clone the repository:  
